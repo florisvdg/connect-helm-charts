@@ -3,6 +3,25 @@ entries:
   connect:
   - apiVersion: v2
     appVersion: 1.2.0
+    created: "2021-09-24T11:38:45.156852517Z"
+    description: A Helm chart for deploying 1Password Connect and the 1Password Connect
+      Kubernetes Operator
+    digest: 922a6d85c1d395b2652dd55d0ad42013bf66063782711cde9cf3c5246229f165
+    home: https://1password.com/secrets/
+    icon: https://avatars.githubusercontent.com/u/38230737
+    keywords:
+    - 1Password
+    - 1Password Connect
+    - 1Password Operator
+    maintainers:
+    - email: support+business@1password.com
+      name: 1Password Secrets Integrations Team
+    name: connect
+    urls:
+    - https://github.com/florisvdg/connect-helm-charts/releases/download/connect-1.4.0/connect-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v2
+    appVersion: 1.2.0
     created: "2021-06-07T09:42:43.948990904Z"
     description: A Helm chart for deploying 1Password Connect and the 1Password Connect
       Kubernetes Operator
@@ -77,4 +96,4 @@ entries:
     urls:
     - https://github.com/1Password/connect-helm-charts/releases/download/v1.0.1/connect-1.0.1.tgz
     version: 1.0.1
-generated: "2021-06-07T09:42:43.949005904Z"
+generated: "2021-09-24T11:38:45.156887317Z"
